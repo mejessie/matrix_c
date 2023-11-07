@@ -1,3 +1,4 @@
+// This code has been written by Jedsada Aimjit.
 #ifndef MATRIX_H
 #define MATRIX_H
 
